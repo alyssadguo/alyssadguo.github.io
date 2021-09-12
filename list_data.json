@@ -1,19 +1,23 @@
 {
 	"places visited": [{
 		"Location": "China",
-		"What I Like About the Place": "the food, the history, visiting family members"
+		"What I Like About the Place": "the food, the history, visiting family members",
+		"One Souvenir I Have": "a hand-drawn map of the Forbidden City"
 	},
 	{
 		"Location": "Yosemite National Park",
-		"What I Like About the Place": "the deer casually hanging out, the bike ride in the valley, Half-Dome at sunset, the clean air"
+		"What I Like About the Place": "the deer casually hanging out, the bike ride in the valley, Half-Dome at sunset, the clean air",
+		"One Souvenir I Have": "A nice magnet showing Half-Dome"
 	},
 	{
 		"Location": "Alaska",
-		"What I Like About the Place": "the glaciers, the salmon, the bears eating berries, the long days during summer"
+		"What I Like About the Place": "the glaciers, the salmon, the bears eating berries, the long days during summer",
+		"One Souvenir I Have": "I don't remember, but I did get bit by mosquitoes plenty of times"
 	},
 	{
 		"Location": "Hawaii",
-		"What I Like About the Place": "clear waters, pretty fish, lovely sunsets, the volcanoes"
+		"What I Like About the Place": "clear waters, pretty fish, lovely sunsets, the volcanoes",
+		"One Souvenir I Have": "A magnet. Don't take things from Hawaii."
 	}]
 	
 }
